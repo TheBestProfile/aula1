@@ -10,4 +10,4 @@
 - git merge
 - git push
 - git pull - puxa as alterações online
--
+  
